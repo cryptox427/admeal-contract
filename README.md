@@ -1,1 +1,3 @@
-
+- Copy & Paste .env.example to create .env file
+- And Set the private key of the deployer wallet.
+- Run "npx hardhat run scripts/deploy.js --network polygon"
